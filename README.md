@@ -7,7 +7,7 @@ This repo collects efficient approaches for LLM (Large Language Model) to cope w
 - [Pruning](#Pruning)
 - [Knowledge Distillation](#Knowledge-Distillation)
 - [Quantization](#Quantization)
-- [Low-Rank Factorization](Low/-Rank-Factorization)
+- [Low-Rank Factorization](Low\-Rank-Factorization)
 
 ## Pruning
 
