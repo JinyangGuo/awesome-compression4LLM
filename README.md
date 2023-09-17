@@ -4,7 +4,7 @@ This repo collects efficient approaches for LLM (Large Language Model) to cope w
 
 ## Table of Contents
 
-- Pruning
+- [Pruning](#Pruning)
 - Knowledge Distillation
 - Quantization
 - Low-Rank Factorization
@@ -23,6 +23,9 @@ This repo collects efficient approaches for LLM (Large Language Model) to cope w
 - LLM-Pruner: On the Structural Pruning of Large Language Models [[Paper](https://arxiv.org/abs/2305.11627)]
 
 ## Knowledge Distillation
+
+- Knowledge Distillation of Large Language Models [[Paper](https://arxiv.org/abs/2306.08543)]
+- GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models [[Paper](https://arxiv.org/abs/2306.13649)]
 
 ## Quantization
 
