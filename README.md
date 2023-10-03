@@ -1,4 +1,4 @@
-![image](https://github.com/hcy682/awesome-compression4LLM/assets/91789722/346f5b60-f5a7-4b71-8c18-9ae6d0a0d12e)# awesome-compression4LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-compression4LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo collects efficient approaches for LLM (Large Language Model) to cope with its huge demand for computing resources. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. 
 
